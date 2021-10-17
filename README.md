@@ -1,2 +1,3 @@
-# quan-sblog
+# quan-sblog.github.io
+
 demo
